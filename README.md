@@ -5,7 +5,7 @@
 ## ⚒ I am Back-End Engineer ⚒
 - Python 
 - Golang
-- Docker
+- Docker/Docker-Compose
 - Git
 - PostgreSQL
 - HTML/CSS
