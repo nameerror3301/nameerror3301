@@ -8,6 +8,7 @@
 - Docker/Docker-Compose
 - Git
 - PostgreSQL
+- Migration
 - HTML/CSS
 - Bash
 - Linux
