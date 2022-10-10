@@ -9,6 +9,7 @@
 - Git
 - PostgreSQL
 - Migration
+- Unit-Test
 - HTML/CSS
 - Bash
 - Linux
