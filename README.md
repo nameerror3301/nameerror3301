@@ -3,7 +3,6 @@
 #
 
 ## ⚒ I am Back-End Engineer ⚒
-- Python 
 - Golang
 - Docker/Docker-Compose
 - Git
