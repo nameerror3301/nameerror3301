@@ -36,7 +36,20 @@
 
  I'm a connoisseur of old culture, the same Hacking times which I didn't catch... 
 
-## Hobby
-- Information security
-- PC repair
-- Game Dota/Rust WZ
+## ⚒ More info ⚒
+
+ The certificates of the courses you have taken (if they are of any use) are in the folder of the same name in this repository.
+
+## ⚒ Literature studied ⚒
+
+ [Грокаем алгоритмы "Бхаргава Адитья"](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/reviews/)
+ 
+ [Bash и кибербезопасность "Олбинг Карл, Тронкон Пол"](https://www.ozon.ru/product/bash-i-kiberbezopasnost-ataka-zashchita-i-analiz-iz-komandnoy-stroki-linux-olbing-karl-tronkon-pol-211432367/?sh=fhQX5BytKA)
+ 
+ [Black Hat Go "Коттманн Дэн, Паттен Крис"](https://www.ozon.ru/product/black-hat-go-programmirovanie-dlya-hakerov-i-pentesterov-kottmann-den-patten-kris-683624025/?sh=fhQX5FOyaQ)
+ 
+ [Go на практике "Фарина Мэтт, Butcher Matt"](https://www.ozon.ru/product/go-na-praktike-farina-mett-mett-butcher-matt-217051434/?sh=fhQX5GFYVQ)
+ 
+ [PostgreSQL основы "Моргунов, Е. П."](https://www.chitai-gorod.ru/catalog/book/1091073/)
+ 
+ [Linux. Карманный справочник "Скотт Граннеман"](https://www.chitai-gorod.ru/catalog/book/921406/)
