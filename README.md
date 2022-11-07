@@ -36,10 +36,6 @@
 
  I'm a connoisseur of old culture, the same Hacking times which I didn't catch... 
 
-## ⚒ More info ⚒
-
- The certificates of the courses you have taken (if they are of any use) are in the folder of the same name in this repository.
-
 ## ⚒ Literature studied ⚒
 
  [Грокаем алгоритмы "Бхаргава Адитья"](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/reviews/)
