@@ -51,3 +51,5 @@
  [PostgreSQL основы "Моргунов, Е. П."](https://www.chitai-gorod.ru/catalog/book/1091073/)
  
  [Linux. Карманный справочник "Скотт Граннеман"](https://www.chitai-gorod.ru/catalog/book/921406/)
+ 
+ [Использование Docker "Моуэт Эдриен"](https://www.ozon.ru/product/ispolzovanie-docker-mouet-edrien-217051397/?sh=fhQX5HeXPg)
