@@ -1,9 +1,12 @@
-## Hi my name is OneByteForLife 👋🏻
+## Привет мой псевдоним OneByteForLife 👋🏻
 
 #
 
-## ⚒ I am Back-End Engineer ⚒
+## ⚒ Я Golang Back-End разработчик ⚒
+
 - Golang <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="25" height="25"/> </a>
+
+- Unit - Test
 
 - Fiber 
 
@@ -15,30 +18,39 @@
 
 - SQL
 
-- Unit - Test
-
 - Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="20"/>
 
 - Bash <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="20"/> </a>
 
 - Rest-Api
 
+#
 
-## ⚒ Bio ⚒
+## ⚒ Биография ⚒
 
- I'm not studying at the moment. I've been working for myself for a year now. Started programming at the age of 16, started with Python, then jumped to C++, because I liked hardcoding even then. 
+В настоящее время я не учусь. Работаю на себя уже год. Начал программировать в 16 лет, начал с Python, потом перешел на C++ потому что уже тогда мне нравилось изредка выстреливать себе в ногу. 
 
- I didn't list C++ in my Skills list because I don't think I can write fluently in it. 
+Я не указал C++ в списке своих навыков, потому что не думаю, что могу свободно писать на нем. 
 
- I like to solve unusual tasks, do things that haven't been done yet, optimize workflows.
+Так же в своем списке навыков я не указал Python так как использую его редко и то лишь для сбора каких то данных с сайтов.
 
- For a long time worked as a computer wizard, then as a system administrator, for a total of 2 years.
+Мне нравится решать необычные задачи, делать то, что еще не было сделано, оптимизировать рабочие процессы.
 
- Mainly focused on API, Back-End, Microservices, Bots, Parsers, worked with WinApi a little, but it was cool.
+Долгое время работал компьютерным мастером, затем системным администратором, в общей сложности 2 года.
 
- I'm a connoisseur of old culture, the same Hacking times which I didn't catch... 
+В основном занимаюсь разработкой серверной части (Back-End).
 
-## ⚒ Literature studied ⚒
+- API
+
+- Телеграм Боты
+
+- Парсеры
+
+- Автоматизация процессов
+
+#
+
+## ⚒ Изученная литература ⚒
 
  [Грокаем алгоритмы "Бхаргава Адитья"](https://www.ozon.ru/product/grokaem-algoritmy-illyustrirovannoe-posobie-dlya-programmistov-i-lyubopytstvuyushchih-139296295/reviews/)
  
