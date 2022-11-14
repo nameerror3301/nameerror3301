@@ -5,6 +5,8 @@
 ## ⚒ I am Back-End Engineer ⚒
 - Golang <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="25" height="25"/> </a>
 
+- Fiber 
+
 - Docker/Docker-Compose <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
 
 - Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/>
@@ -13,13 +15,10 @@
 
 - SQL
 
-- Migration
-
 - Unit - Test
 
-- Bash <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="20"/> </a>
-
 - Linux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="20"/>
+        - Bash <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="25" height="20"/> </a>
 
 - Rest-Api
 
